@@ -96,7 +96,7 @@ const Login = () => {
 
           <div className="login-footer">
             <p className="security-notice">
-              🔒 Secured with AES-256 encryption
+              
             </p>
           </div>
         </div>
