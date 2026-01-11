@@ -39,7 +39,7 @@ const Login = () => {
       <div className="login-background">
         <div className="login-card">
           <div className="login-header">
-            <img src="/ps-logo.png" alt="Pyschosomatic Logo" className="login-logo" />
+            <img src="public/ps-logo.png" alt="Pyschosomatic Logo" className="login-logo" />
             <h1>Admin Portal</h1>
             <p>Pyschosomatic Analytics Dashboard</p>
           </div>
